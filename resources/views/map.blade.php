@@ -40,6 +40,7 @@
         var layer = event.layer;
 
         drawnItems.addLayer(layer);
+        console.log(map)
     });
     </script>
 
